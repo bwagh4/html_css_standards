@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docx", "Docx", "{E07C38B0-0975-45C5-846F-00BCB39DB57E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "standards", "standards", "{E07C38B0-0975-45C5-846F-00BCB39DB57E}"
 	ProjectSection(SolutionItems) = preProject
 		C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\accessibility.md = C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\accessibility.md
 		C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\browser-device-support.md = C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\browser-device-support.md
@@ -12,6 +12,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docx", "Docx", "{E07C38B0-0
 		C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\html.md = C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\html.md
 		C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\methodology.md = C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\methodology.md
 		C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\scss.md = C:\Users\bhushan\Desktop\HTML_CSS-Standard_Guidelines\standards\scss.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docx", "Docx", "{5CA66418-A44A-48C2-B329-2D2DE3CA00AE}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\bhushan\Desktop\HTML-css.docx = C:\Users\bhushan\Desktop\HTML-css.docx
+		C:\Users\bhushan\Desktop\HTML_CSS.pptx = C:\Users\bhushan\Desktop\HTML_CSS.pptx
 	EndProjectSection
 EndProject
 Global
